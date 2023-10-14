@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculators_Onein3</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="bmi">BMI</string>
+    <string name="scientific">Scientific</string>
+    <string name="temperature">Temperature</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="btnbrco">(</string>
+    <string name="btnbracc">)</string>
+    <string name="eq">=</string>
+    <string name="stop">.</string>
+    <string name="_0">0</string>
+    <string name="pi">π</string>
+    <string name="pius">+</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="hyp">-</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="multi">×</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="x">x!</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="cos">cos</string>
+    <string name="sin">sin</string>
+    <string name="a">AC</string>
+</resources>

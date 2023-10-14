@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/fragmentBmi">
+    <fragment
+        android:id="@+id/fragmentBmi"
+        android:name="org.techtales.Calculators_Onein3.FragmentBmi"
+        android:label="fragment_bmi"
+        tools:layout="@layout/fragment_bmi" />
+    <fragment
+        android:id="@+id/fragmentCalculator"
+        android:name="org.techtales.Calculators_Onein3.FragmentCalculator"
+        android:label="fragment_calculator"
+        tools:layout="@layout/fragment_calculator" />
+    <fragment
+        android:id="@+id/fragmentThermometer"
+        android:name="org.techtales.Calculators_Onein3.FragmentThermometer"
+        android:label="fragment_thermometer"
+        tools:layout="@layout/fragment_thermometer" />
+</navigation>
